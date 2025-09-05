@@ -1,4 +1,4 @@
-[Visit Now]([...](https://app.netlify.com/projects/link-list-portfolio/)) 🚀
+[Visit Now]([...]([https://app.netlify.com/projects/link-list-portfolio/](https://link-list-portfolio.netlify.app/) 🚀
 
 ## Overview
 
